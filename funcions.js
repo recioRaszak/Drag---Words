@@ -7,7 +7,7 @@ var jocs = {"paraules":[
 	{ "paraula":"batman", "disponibles":"ehntybqaawm" },
     { "paraula":"elefant", "disponibles":"baeweplnvfaitsn" },
     { "paraula":"forquilla", "disponibles":"learqufozil" },
-    { "paraula":"spider man", "disponibles":"wowgojkmaendern" },
+    { "paraula":"spider man", "disponibles":"itdejrsnpvcman" },
     { "paraula":"wonder woman", "disponibles":"wowgojkmaendern" },
     { "paraula":"vella quaresma", "disponibles":"eluarlaavqesm" }
 ]};
