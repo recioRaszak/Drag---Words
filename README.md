@@ -26,9 +26,9 @@ Aunque interact.js viene dotada de eventos touch y multitouch, no me acaba de fu
 En mi tablet viejuna Samsung, puedes jugar, pero tienes que arrastrar las letras muy lentamente.
 
 En el chrome de mi movil Moto G Play, en cuanto tocas una letra se va al quinto pino. Además, esto es curioso, tuve un conflicto con el evento "pull for refresh" este nativo de recargar la página... Pude deshabilitarlo añadiendo el tag:
-
+```
 <intelxdk:crosswalk xwalk-command-line="--disable-pull-to-refresh-effect" />
-
+```
 que flipa, yo no sabía ni que existía (lo encontré en una web mu rara que hablaban de apps híbridas y del apache cordova y cosas de esas).
 
 Eso es lo mas guay de estos experimentillos, que aparecen movidas, y aprendes cosicas...
