@@ -1,4 +1,5 @@
 var jocs = {"paraules":[
+	{ "paraula":"roca", "disponibles":"chawryopsx" },
 	{ "paraula":"tigre", "disponibles":"ehtroqifgetv" },
 	{ "paraula":"arbre", "disponibles":"baewpirbro" },
 	{ "paraula":"bossa", "disponibles":"seroxsnabm" },
@@ -6,7 +7,9 @@ var jocs = {"paraules":[
 	{ "paraula":"batman", "disponibles":"ehntybqaawm" },
     { "paraula":"elefant", "disponibles":"baeweplnvfaitsn" },
     { "paraula":"forquilla", "disponibles":"learqufozil" },
-    { "paraula":"wonder woman", "disponibles":"wowgojkmaendern" }
+    { "paraula":"spider man", "disponibles":"wowgojkmaendern" },
+    { "paraula":"wonder woman", "disponibles":"wowgojkmaendern" },
+    { "paraula":"vella quaresma", "disponibles":"eluarlaavqesm" }
 ]};
 
 var pantalla=0;
