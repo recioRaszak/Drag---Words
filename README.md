@@ -3,7 +3,7 @@ An experimental drag and drop minigame for kids
 
 ## Que es esto, nen?
 
-Pues na, que un finde me dió por probar una librera drag and drop muy chula llamada interact.js, y tuve una idea aparentemente fácil de poner en practica de una miniapp para que jugara mi hijo de 5 años. Como su maestra comentó algo de que las palabras en catalán le costaban, pues aproveché y le puse un poco de vocabulario catalán, bueno con algunos superhéroes de por medio, para que se motive (es algo vago).
+Pues na, que un finde me dió por probar una librería js de drag and drop muy chula llamada interact.js, y tuve una idea aparentemente fácil de poner en practica de una miniapp para que jugara mi hijo de 5 años. Como su maestra comentó algo de que las palabras en catalán le costaban, pues aproveché y le puse un poco de vocabulario catalán, bueno con algunos superhéroes de por medio, para que se motive (es algo vago).
 
 Es tán simple como un scrabble drag and drop, donde le doy unas letras mezcladas al niño, y tiene que arrastrar las correctas que corresponden a la palabra del dibujo.
 
